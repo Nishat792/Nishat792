@@ -1,6 +1,8 @@
+![logo](https://user-images.githubusercontent.com/131149262/234837102-c016b0c9-7985-45d1-87ec-5329c46789f9.png)
 <h1 align="center">Hi 👋, I'm Sadia Zaman Nishat</h1>
 <h3 align="center">A passionate and self motivated learner.</h3>
 
+<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/131149262/234836267-b9690c6b-b040-4d02-872d-8f3d0769b0f4.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat792&label=Profile%20views&color=0e75b6&style=flat" alt="nishat792" /> </p>
 
