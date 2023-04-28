@@ -2,9 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Sadia Zaman Nishat</h1>
 <h3 align="center">A passionate and self motivated learner.</h3>
 
-<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/131149262/234836267-b9690c6b-b040-4d02-872d-8f3d0769b0f4.png">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat792&label=Profile%20views&color=0e75b6&style=flat" alt="nishat792" /> </p>
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/131149262/235105972-6514f84e-8dc9-4cb3-9ebc-df3d8540f3f1.png">
 
 ## 👨🏽‍💻 What I'm working on
 - 🔭 I’m currently being trained on [DevOps and Cloud](at bjitacademy.com)
@@ -66,3 +64,12 @@ I've very active, writing content regularly to at least one of these.
 - [Name of the coding contest], [Rank], [Year]
 - [Name of the coding contest], [Rank], [Year]
 
+## 📈 GitHub Stats
+<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nishat792&label=Profile%20views&color=0e75b6&style=flat" alt="Nishat792" /> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishat792&show_icons=true&locale=en" alt="Nishat792" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishat792&" alt="Nishat792" /></p>
+ </div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nishat792" alt="Nishat792" /></a> </p>
+
+## 💻 Github Repositories
