@@ -16,7 +16,7 @@ day of university life. Now I am confident, motivated and passionate to get to m
 ## 🧠 What I'm currently learning
 - 🌱 I’m currently learning **DevOps overview , Linux,Software Development Life Cycle , Git and Github,Jenkins,ci/cd pipeline,ansible and so on.**
 ## 📫 How to reach me
--  **sadia.nishat@bjitacademy.com**
+  **sadia.nishat@bjitacademy.com**
 
 ## 💬 Ask me about
 - <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy
@@ -38,7 +38,9 @@ day of university life. Now I am confident, motivated and passionate to get to m
   ### Final Year Thesis & Development Project
 Trade-Builder:
 This was a virtual online market place for the entrepreneur and investors. 
+
 07/2021 - 03/2022, United International University, United City, Dhaka-1212.
+
 We did 5 analyses and formed a solution for our research area and implemented our project through a dynamic website with python and django framework.
 - Feasibility analysis 
 - Benchmark analysis 
@@ -52,7 +54,9 @@ Contact : : Asst. Professor Suman Ahmmed - suman@cse.uiu.ac.bd
   ### Machine Learning Project
 #### Skin cancer detection by Deep learning with
 CNN(Convolutional Neural Network)
+
 04/2022 - 05/2022, United City, Dhaka-1212
+
  We completed this project in our Pattern Recognition course in my university. Our aim was to detect the cancer cell by the medical image by using CNN.
 - Data collection 
 - Data Augmentation 
