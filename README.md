@@ -17,11 +17,25 @@ day of university life. Now I am confident, motivated and passionate to get to m
 - 🌱 I’m currently learning **DevOps overview , Linux,Software Development Life Cycle , Git and Github,Jenkins,ci/cd pipeline,ansible and so on.**
 ## 📫 How to reach me
   **sadia.nishat@bjitacademy.com**
+  
+  ## 🎓 Education
+- BSc in Computer Science and Engineering.
 
-## 💬 Ask me about
-- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy
-- <b>Technologies:</b> PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illustrator, Figma
+   United International University.
+   
+   02/2018 - 9 / 2022, 3.73
 
+- Faculty of Science.
+
+  Shaheed Bir Uttam Lt. Anwar Girls' School and College.
+  
+  07/2015 - 08/2017, 4.83
+
+- Faculty of Science.
+
+  Shaheed Sardar Shajahan Girls' School and College,Madaripur.
+
+  01/2013 - 03/2015, 5.00
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,11 +63,10 @@ We did 5 analyses and formed a solution for our research area and implemented ou
 - Wrote 2 chapter of report
 - Frontend coding part
 
-Contact : : Asst. Professor Suman Ahmmed - suman@cse.uiu.ac.bd
+Contact : Asst. Professor Suman Ahmmed - suman@cse.uiu.ac.bd
 
   ### Machine Learning Project
-#### Skin cancer detection by Deep learning with
-CNN(Convolutional Neural Network)
+#### Skin cancer detection by Deep learning with CNN(Convolutional Neural Network)
 
 04/2022 - 05/2022, United City, Dhaka-1212
 
@@ -77,32 +90,22 @@ Contact : Assistant Professor MD. RAYHAN AHMED - rayhan@cse.uiu.ac.bd
   copy of assignments. </p>
   Contact: nasrina@ins.uiu.ac.bd.
 
-## 🎓 Education
-- BSc in Computer Science and Engineering
-United International University
-02/2018 - 9 / 2022, 3.73
-
-- Faculty of Science
-Shaheed Bir Uttam Lt. Anwar Girls' School and College
-07/2015 - 08/2017, 4.83
-
-- Faculty of Science
-Shaheed Sardar Shajahan Girls' School and
-College,Madaripur
-01/2013 - 03/2015, 5.00
-
 
 ## 📚 Training
-- I am being trained as DevOps Trainee Software Engineer.
+I am being trained as DevOps Trainee Software Engineer.
 
 ## 🏆 Achievements
 - UIU CSE Project Show - 2019
-I and my group was awarded for 2nd position in CSE project show for showing
-Electronics projects.
+
+  I and my group was awarded for 2nd position in CSE project show for showing Electronics projects.
 
 - UIU Intra University Cultural Fest -2020
-I was awarded for 2nd position in Recitation.
 
+  I was awarded for 2nd position in Recitation.
+
+## 💬 Ask me about
+- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Process, Git/GitHub/Gerrit, Project Management & Strategy
+- <b>Technologies:</b> PHP, Laravel, ReactJS, NodeJS, HTML, CSS, MySQL, Photoshop, Illustrator, Figma
 
 
 ## 📈 GitHub Stats
