@@ -12,7 +12,7 @@ day of university life. Now I am confident, motivated and passionate to get to m
 </p>
 
 ## 👨🏽‍💻 What I'm working on
-- 🔭 I’m currently being trained on DevOps and Cloud at bjitacademy.com.
+- 🔭 I’m currently doing my training on DevOps and Cloud at bjitacademy.com.
 ## 🧠 What I'm currently learning
 - 🌱 I’m currently learning **DevOps overview , Linux,Software Development Life Cycle , Git and Github,Jenkins,ci/cd pipeline,ansible and so on.**
 ## 📫 How to reach me
@@ -92,7 +92,7 @@ Contact : Assistant Professor MD. RAYHAN AHMED - rayhan@cse.uiu.ac.bd
 
 
 ## 📚 Training
-I am being trained as DevOps Trainee Software Engineer.
+I am doing my training as DevOps and cloud Trainee Software Engineer.
 
 ## 🏆 Achievements
 - UIU CSE Project Show - 2019
